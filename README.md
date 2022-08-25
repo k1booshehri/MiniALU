@@ -1,5 +1,5 @@
 # MiniALU (CAD course final project)
-##project description:
+## project description:
 The function of this ALU is as follows: it receives 43 bits as instructions, and these 40 bits will be as follows:
 </br>
 The first 3 bits mean the first operator. The second 3 bits mean the third operator. The third 3 bits mean the third operator. Make sure the numbers are integers. (positive or negative) and also the operators will be as follows: 
@@ -8,14 +8,14 @@ The first 3 bits mean the first operator. The second 3 bits mean the third opera
 </br>
 Note that any code that is only used for simulation is not acceptable.
 </br>
-The first part is privileged
+## The first part is privileged
 </br>
 In this section, we intend to add 8 registers to the built one. For this purpose, the input commands of the system will have changes. The changes are as follows: 
 </br>
 the number of input commands will be 50 bits, the order and size of operator bits will not change.
 For each 8-bit number that was designed in the previous part, he added a bit on the left side of it, which actually reads the next 8 bits as a number if the left bit is 0, and if that bit is 1, the content of the registry with Bayes . equal to the value of the next 8 bits. In the last 3 bits of the command, the index is a register and stores the result obtained by the ALU in that register.
 </br>
-The second part is privileged
+## The second part is privileged
 </br>
 We are going to add facilities to these few controls for our ALU to execute a program including a line of code. To achieve this goal, instead of 1 input line, we must give a program to the processor. This program will be as follows:
 </br>
