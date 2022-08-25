@@ -1,0 +1,36 @@
+C:/Users/sahan/OneDrive/Desktop/CAD/ALU.v {1 {vlog -work work -vopt -stats=none C:/Users/sahan/OneDrive/Desktop/CAD/ALU.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/sahan/OneDrive/Desktop/CAD/FU.v {1 {vlog -work work -vopt -stats=none C:/Users/sahan/OneDrive/Desktop/CAD/FU.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module FU
+
+Top level modules:
+	FU
+
+} {} {}} C:/Users/sahan/OneDrive/Desktop/CAD/ALU_TB.v {1 {vlog -work work -vopt -stats=none C:/Users/sahan/OneDrive/Desktop/CAD/ALU_TB.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ALU_TB
+
+Top level modules:
+	ALU_TB
+
+} {} {}} C:/Users/sahan/OneDrive/Desktop/CAD/CU.v {1 {vlog -work work -vopt -stats=none C:/Users/sahan/OneDrive/Desktop/CAD/CU.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module CU
+
+Top level modules:
+	CU
+
+} {} {}} C:/Users/sahan/OneDrive/Desktop/CAD/CU_TB.v {1 {vlog -work work -vopt -stats=none C:/Users/sahan/OneDrive/Desktop/CAD/CU_TB.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module CU_TB
+
+Top level modules:
+	CU_TB
+
+} {} {}}
